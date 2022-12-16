@@ -1,2 +1,18 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+.parts{
+    text-align: left;
+}
+td,th{
+    border: 2px solid black;
+}
+thead{
+    background-color: red;
+    text-align: left;
+}
+td{
+    text-align: end;
+}
 
-/* Your CSS Code here. */
